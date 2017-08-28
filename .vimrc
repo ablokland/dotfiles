@@ -37,6 +37,7 @@ Plugin 'vim-airline/vim-airline-themes'
 
 Plugin 'IN3D/vim-raml'
 Plugin 'lifepillar/vim-solarized8'
+Plugin 'altercation/vim-colors-solarized'
 
 Plugin 'https://github.com/NL057/rockerfile.vim'
 
